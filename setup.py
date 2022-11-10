@@ -24,7 +24,7 @@ tests_require = [
 ]
 
 setup(
-    name='log_parser',
+    name='common_log_parser',
     version=__version__,
     description='Parse HTTP Common Log format file for top visited urls, top ips and number of uniq ips',
     long_description='''
