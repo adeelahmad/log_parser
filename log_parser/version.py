@@ -8,4 +8,4 @@
 # http://www.opensource.org/licenses/MIT-license
 # Copyright (c) 2022, Adeel Ahmad <230291+adeelahmad@users.noreply.github.com>
 
-__version__ = '0.0.3'  # NOQA
+__version__ = '1.0.2'  # NOQA
