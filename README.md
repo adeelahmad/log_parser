@@ -14,7 +14,7 @@ Install using pip3.
 `pip3`
 
 ```bash
-  pip3 install git+https://github.com/adeelahmad/log_parser.git
+  pip install common-log-parser
 ```
 
 ## Usage/Examples
